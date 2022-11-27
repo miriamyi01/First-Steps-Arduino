@@ -1,2 +1,2 @@
-# Primeros Pasos de Electronica y Arduino
-Compuertas Lógicas (And, Or, Not) y Prácticas Arduino
+# First steps of electronics and Arduino
+Logic gates (And, Or, Not) and Arduino practices
